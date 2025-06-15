@@ -19,7 +19,7 @@ Welcome to the **Sorting Algorithm Visualizer**, a Python-based tool that brings
 
 ## Demo
 
-![Sorting Visualizer Demo](Demo.gif)  
+![Sorting Visualizer Demo](Demo/Demo.gif)  
 
 
 ## Prerequisites
